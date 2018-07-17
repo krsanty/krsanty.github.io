@@ -1,0 +1,250 @@
+{
+  "Library": [
+    {
+      "Name": "Office 365",
+      "Image": "",
+      "Technologies": [
+        {
+          "Name": "Outlook",
+          "Image": "",
+          "Subjects": []
+        },
+        {
+          "Name": "OneDrive",
+          "Image": "",
+          "Subjects": []
+        },
+        {
+          "Name": "Word",
+          "Image": "",
+          "Subjects": []
+        },
+        {
+          "Name": "Excel",
+          "Image": "",
+          "Subjects": []
+        },
+        {
+          "Name": "PowerPoint",
+          "Image": "",
+          "Subjects": []
+        },
+        {
+          "Name": "OneNote",
+          "Image": "",
+          "Subjects": []
+        },
+        {
+          "Name": "SharePoint",
+          "Image": "",
+          "Subjects": []
+        },
+        {
+          "Name": "Teams",
+          "Image": "",
+          "Subjects": [
+            "Meetings",
+            "PSTN Calling"
+          ]
+        },
+        {
+          "Name": "Yammer",
+          "Image": "",
+          "Subjects": []
+        },
+        {
+          "Name": "Access",
+          "Image": "",
+          "Subjects": []
+        },
+        {
+          "Name": "Project",
+          "Image": "",
+          "Subjects": []
+        },
+        {
+          "Name": "Planner",
+          "Image": "",
+          "Subjects": []
+        },
+        {
+          "Name": "Visio",
+          "Image": "",
+          "Subjects": []
+        },
+        {
+          "Name": "Publisher",
+          "Image": "",
+          "Subjects": []
+        },
+        {
+          "Name": "Skype for Business",
+          "Image": "",
+          "Subjects": []
+        },
+        {
+          "Name": "Forms",
+          "Image": "",
+          "Subjects": []
+        },
+        {
+          "Name": "OneDrive for Business",
+          "Image": "",
+          "Subjects": []
+        },
+        {
+          "Name": "SharePoint Online",
+          "Image": "",
+          "Subjects": []
+        }
+      ]
+    },
+    {
+      "Name": "Windows 10",
+      "Image": "",
+      "Technologies": [
+        {
+          "Name": "Cortana",
+          "Image": "",
+          "Subjects": []
+        }
+      ]
+    }
+  ],
+  "Categories": [
+    {
+      "Name": "Change Management",
+      "Security": "Members",
+      "Image": "",
+      "SubCategories": [
+        {
+          "Name": "Prepare for Change",
+          "Image": ""
+        },
+        {
+          "Name": "Manage Change",
+          "Image": ""
+        },
+        {
+          "Name": "Reinforce Change",
+          "Image": ""
+        }
+      ]
+    },
+    {
+      "Name": "General",
+      "Security": "Visitors",
+      "Image": "",
+      "SubCategories": [
+        {
+          "Name": "Recommended",
+          "Image": ""
+        },
+        {
+          "Name": "Transformation",
+          "Image": ""
+        },
+        {
+          "Name": "Org-Created",
+          "Image": ""
+        },
+        {
+          "Name": "Get Started",
+          "Image": ""
+        },
+        {
+          "Name": "Featured",
+          "Image": ""
+        },
+        {
+          "Name": "Root",
+          "Image": ""
+        }
+      ]
+    }
+  ],
+  "Paths": [
+    {
+      "Name": "Excel Training",
+      "Image": ""
+    },
+    {
+      "Name": "Microsoft Teams Training",
+      "Image": ""
+    },
+    {
+      "Name": "Office 365 basics",
+      "Image": ""
+    },
+    {
+      "Name": "OneNote ARTICLE training",
+      "Image": ""
+    },
+    {
+      "Name": "Outlook Training",
+      "Image": ""
+    },
+    {
+      "Name": "PowerPoint Training",
+      "Image": ""
+    },
+    {
+      "Name": "SharePoint Online training",
+      "Image": ""
+    },
+    {
+      "Name": "Word Training",
+      "Image": ""
+    },
+    {
+      "Name": "Yammer Training",
+      "Image": ""
+    },
+    {
+      "Name": "Start with Six Simple Steps",
+      "Image": ""
+    }
+  ],
+  "Audiences": [
+    {
+      "Name": "IT Pros",
+      "Image": ""
+    },
+    {
+      "Name": "HelpDesk",
+      "Image": ""
+    },
+    {
+      "Name": "Change Managers",
+      "Image": ""
+    },
+    {
+      "Name": "Champions/Trainers",
+      "Image": ""
+    },
+    {
+      "Name": "Executive Assistants",
+      "Image": ""
+    },
+    {
+      "Name": "VIPs",
+      "Image": ""
+    },
+    {
+      "Name": "End Users",
+      "Image": ""
+    }
+  ],
+  "Sources": [
+    "SOC",
+    "FastTrack",
+    "M365",
+    "Microsoft",
+    "LinkedIn"
+  ],
+  "Levels": [
+    "Beginner",
+    "Intermediate",
+    "Advanced"
+  ]
+}
